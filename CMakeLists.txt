@@ -17,5 +17,5 @@ include_directories(include)
 
 enable_testing()
 
-add_subdirectory(strategy)
+add_subdirectory(src)
 add_subdirectory(tests)
